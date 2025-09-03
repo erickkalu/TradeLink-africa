@@ -1,2 +1,1 @@
-# TradeLink-africa
-We trade and link through all the African continent 
+TradeLink Africa is a modern digital trade facilitation platform that connects buyers and sellers across Africa.
